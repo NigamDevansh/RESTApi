@@ -1,9 +1,0 @@
-{
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.cursorStyle": "line",
-    "editor.fontLigatures": true,
-    "editor.formatOnSave": true,
-    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
-    "editor.fontSize": 15,
-    "editor.fontWeight": "normal"
-}
